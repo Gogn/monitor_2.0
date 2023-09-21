@@ -120,6 +120,7 @@ const en = {
     },
   },
   // @demo remove-block-end
+  home: "Home",
 }
 
 export default en

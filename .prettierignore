@@ -1,6 +1,7 @@
-node_modules
-ios
-android
-.vscode
-ignite/ignite.json
+node_modules/
+ios/
+android/
+.expo/
+.expo-shared/
+tsconfig.json
 package.json
